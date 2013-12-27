@@ -1,7 +1,7 @@
-Huffman µÄ±àÂëºÍ½âÂë
+Huffman çš„ç¼–ç å’Œè§£ç 
 
-1.weight.txt Àï±ß´æ·ÅµÄÊÇ¼ÓÈ¨ÖØµÄ×Ö·ûÅäÖÃ
+1.weight.txt é‡Œè¾¹å­˜æ”¾çš„æ˜¯åŠ æƒé‡çš„å­—ç¬¦é…ç½®
 
-2.½øÈë³ÌÐòºó£¬ÌáÊ¾ÊäÈësize£¬Õâ¸öÊ±ºòÊäÈë0 £¬È»ºóÊäÈëweight.txt ,¾Í¿ÉÒÔ´òÓ¡huffmanÊ÷
+2.è¿›å…¥ç¨‹åºåŽï¼Œæç¤ºè¾“å…¥sizeï¼Œè¿™ä¸ªæ—¶å€™è¾“å…¥0 ï¼Œç„¶åŽè¾“å…¥weight.txt ,å°±å¯ä»¥æ‰“å°huffmanæ ‘
 
-3.input.dat ¹©±àÂë²âÊÔ£¬codefilex.dat ¹©½âÂë²âÊÔ
+3.input.dat ä¾›ç¼–ç æµ‹è¯•ï¼Œcodefilex.dat ä¾›è§£ç æµ‹è¯•
